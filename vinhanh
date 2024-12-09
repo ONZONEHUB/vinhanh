@@ -1,0 +1,6 @@
+Config={
+    namescript = "Test Hub"--ID logo Script
+tacgia ="shadas"--Vanh
+}
+loadstring(game:HttpGet("http://raw.giathubusercontent.com/tngaming123/vesion/refs/heads/main
+                        scriptbffree.lua"))()
